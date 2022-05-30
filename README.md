@@ -1,2 +1,5 @@
-# dio-desafio-github-primeiro-repo
-Desafio
+Repositorio para desafio Dio
+
+Informações sobre o desafio
+
+links uteis
